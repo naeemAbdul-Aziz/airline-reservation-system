@@ -63,7 +63,6 @@ This repository contains a simple implementation of an Airline Reservation Syste
    - **Book a Seat on the Flight**:
      ```java
      passenger.bookFlight("AI101");
-     flight.bookSeat();
      ```
 
    - **Attempt to Book the Same Flight Again**:
